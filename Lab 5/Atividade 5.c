@@ -2,7 +2,7 @@
 /* Prof.: Silvana Rossetto */
 /* Codigo: Comunicação entre threads usando variável compartilhada e exclusao mutua com bloqueio */
 /* Aluno: Rafael Oliveira Chaffin */
-/* Prof.: Silvana Rossetto */
+/* DRE: 121045260 */
 #include <stdio.h>
 #include <stdlib.h> 
 #include <pthread.h>
